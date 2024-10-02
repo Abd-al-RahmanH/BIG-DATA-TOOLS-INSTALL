@@ -50,5 +50,4 @@ This guide explains how to run the Bash script that sets up and configures Apach
   - Verify that all environment variables (like `JAVA_HOME`) are correctly set.
 
 ---
-
-This `.md` file should help outline the step-by-step process without including the script itself. Let me know if you need to add more details!
+![](Images/1.jpg)
