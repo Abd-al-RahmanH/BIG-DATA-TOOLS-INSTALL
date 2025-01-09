@@ -50,4 +50,4 @@ This guide explains how to run the Bash script that sets up and configures Apach
   - Verify that all environment variables (like `JAVA_HOME`) are correctly set.
 
 ---
-![](./Images/1.jpg)
+![](../Images/1.jpg)
